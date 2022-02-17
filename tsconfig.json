@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "isolatedModules": true,
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "module": "esnext",
+        "target": "es6",
+        "jsx": "react",
+        "allowJs": false,
+        "baseUrl": "./src/",
+        "noEmit": true,
+               "lib": ["dom", "esnext", "es2020.string"]
+    },
+    "include": ["src"]
+}
