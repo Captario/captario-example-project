@@ -5,13 +5,13 @@
     "check": "tsc"
   },
   "dependencies": {
-    "esbuild": "^0.14.22",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "typescript": "^4.5.5"
+    "esbuild": "^0.15.00",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "typescript": "^4.8.0"
   },
   "devDependencies": {
-    "@types/react": "^17.0.39",
-    "@types/react-dom": "^17.0.11"
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0"
   }
 }
